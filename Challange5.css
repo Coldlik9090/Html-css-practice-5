@@ -1,0 +1,13 @@
+.Model , .Time , .Order{
+  text-align: center;
+  font-family: 'Montserrat';
+}
+
+.Model{
+  font-weight: bold;
+  font-family: 'Montserrat';
+}
+
+.Time{
+  text-decoration: underline;
+}
